@@ -1,16 +1,9 @@
-# resposive
+# Resposive_App
 
-A new Flutter project.
+![Screenshot 2023-01-05 221543](https://user-images.githubusercontent.com/83370198/210948995-197fb838-0917-4679-b567-f48f8d06e454.png)
+![123](https://user-images.githubusercontent.com/83370198/210949012-f3a94222-d729-46a3-a76c-07a6a127e691.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is the internship task for Aimed Labs.
